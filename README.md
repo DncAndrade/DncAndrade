@@ -4,7 +4,7 @@ Sou estudante de **Ciência da Computação** em Cuiabá - MT, focada no desenvo
 
 ---
 
-### 🛠️ Hard Skills & Ferramentas
+### 🛠️  Tecnologias e Ferramentas
 
 * **Linguagens:** Python 3 (Estruturas de Dados e Automação)
 * **Banco de Dados:** SQL (Structured Query Language)
