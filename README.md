@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://i.ibb.co/3ykG8v8/github-dnc-banner.png" alt="GitHub Dnc" width="100%">
+</p>
+
+
 # 📊 Danielle C. de Andrade
 
 Sou estudante de **Ciência da Computação** em Cuiabá - MT, focada no desenvolvimento de soluções voltadas para a área de **Dados e Business Intelligence**. Atualmente, dedico meus estudos ao domínio de estruturas de dados, lógica de programação e modelagem relacional.
