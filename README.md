@@ -15,7 +15,7 @@ Sou estudante de **Ciência da Computação** em Cuiabá - MT, focada no desenvo
 * **Banco de Dados:** SQL (Structured Query Language)
 * **Ambientes & Versionamento:** VS Code, Git e GitHub
 
-### 🚀 Objetivos Atuais
+### 📁 Objetivos Atuais
 * 💼 Buscando oportunidades de **Estágio em Banco de Dados / BI / Engenharia de Dados**.
 * 📊 Desenvolvendo projetos práticos focado em manipulação e exibição de metadados estruturados.
 * 🎓 Fortalecendo a base teórica e lógica na faculdade aplicadas a cenários reais de mercado.
