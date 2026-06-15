@@ -1,32 +1,32 @@
-# Olá, eu sou a Danielle Castro de Andrade! 👋
+# 👩‍💻 Danielle Castro de Andrade
+______________________________________
 
-## 👩‍💻 Sobre Mim
 Sou estudante de **Ciência da Computação** em Cuiabá - MT, atualmente no 2º semestre. Sou completamente apaixonada pelo universo de **Dados & Business Intelligence (BI)**. Dedico meus estudos diários à modelagem de dados, análise estatística e automação de processos para transformar dados brutos em insights inteligentes.
 
-- 🔭 Atualmente estou aprimorando meus conhecimentos em **Python** e **SQL**.
-- 📊 Desenvolvendo projetos práticos com **Excel Avançado** e **Power BI**.
-- 💼 Buscando oportunidades de **Estágio em Banco de Dados / BI / Engenharia de Dados**.
+- Atualmente estou aprimorando meus conhecimentos em **Python** e **SQL**.
+- Desenvolvendo projetos práticos com **Excel Avançado** e **Power BI**.
+- Buscando oportunidades de **Estágio em Banco de Dados / BI / Engenharia de Dados**.
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### 🧠 Linguagens & Bancos de Dados
+###  Linguagens & Bancos de Dados
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=databricks&logoColor=white)
 
-### 📊 Análise & Visualização de Dados
+###  Análise & Visualização de Dados
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
-### 🔧 Ferramentas & Versionamento
+###  Ferramentas & Versionamento
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📊 Minhas Estatísticas do GitHub
+##  Minhas Estatísticas do GitHub
 
 Abaixo você pode ver o resumo das minhas atividades e as linguagens que mais utilizo nos meus repositórios:
 
@@ -39,6 +39,6 @@ Abaixo você pode ver o resumo das minhas atividades e as linguagens que mais ut
 
 ## 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINK_DO_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dncandrade/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dncastroandrade@gmail.com)
 
