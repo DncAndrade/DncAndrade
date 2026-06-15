@@ -1,5 +1,4 @@
-# 👩‍💻 Danielle Castro de Andrade
-______________________________________
+# 👩‍💻 - Danielle Castro de Andrade
 
 Sou estudante de **Ciência da Computação** em Cuiabá - MT, atualmente no 2º semestre. Sou completamente apaixonada pelo universo de **Dados & Business Intelligence (BI)**. Dedico meus estudos diários à modelagem de dados, análise estatística e automação de processos para transformar dados brutos em insights inteligentes.
 
@@ -9,7 +8,7 @@ Sou estudante de **Ciência da Computação** em Cuiabá - MT, atualmente no 2º
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 ###  Linguagens & Bancos de Dados
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -30,14 +29,18 @@ Sou estudante de **Ciência da Computação** em Cuiabá - MT, atualmente no 2º
 
 Abaixo você pode ver o resumo das minhas atividades e as linguagens que mais utilizo nos meus repositórios:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DncAndrade&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Danielle" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DncAndrade&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas" height="180em" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=DncAndrade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Danielle" height="165" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DncAndrade&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" height="165" />
+    </td>
+  </tr>
+</table>
 
 ---
-
-## 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dncandrade/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dncastroandrade@gmail.com)
