@@ -1,3 +1,6 @@
+![Minha Animação](Banco de Dados (1).gif)
+
+
 # 👩‍💻 - Danielle Castro de Andrade
 
 Sou estudante de **Ciência da Computação** em Cuiabá - MT, atualmente no 2º semestre. Sou completamente apaixonada pelo universo de **Dados & Business Intelligence (BI)**. Dedico meus estudos diários à modelagem de dados, análise estatística e automação de processos para transformar dados brutos em insights inteligentes.
