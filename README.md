@@ -1,4 +1,5 @@
-![Minha Animação](C:\Users\Andrade\Downloads/banco-de-dados.gif)
+<img width="700" height="700" alt="banco-de-dados" src="https://github.com/user-attachments/assets/a815ec88-475e-4a89-8cdb-48dff6f7da19" />
+
 
 
 # 👩‍💻 - Danielle Castro de Andrade
