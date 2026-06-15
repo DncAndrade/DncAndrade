@@ -1,4 +1,4 @@
-![Minha Animação](Banco de Dados (1).gif)
+![Minha Animação](Banco%20de%20Dados%20(1).gif)
 
 
 # 👩‍💻 - Danielle Castro de Andrade
