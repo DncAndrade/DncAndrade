@@ -1,4 +1,5 @@
-<img width="700" height="700" alt="banco-de-dados" src="https://github.com/user-attachments/assets/a815ec88-475e-4a89-8cdb-48dff6f7da19" />
+<img width="560" height="239" alt="banco-de-dados (1)" src="https://github.com/user-attachments/assets/96d41201-21bc-4e60-9572-9e718f19aeae" />
+
 
 
 
