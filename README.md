@@ -1,4 +1,4 @@
-![Minha Animação](dowloads/banco-de-dados.gif)
+![Minha Animação](C:\Users\Andrade\Downloads/banco-de-dados.gif)
 
 
 # 👩‍💻 - Danielle Castro de Andrade
