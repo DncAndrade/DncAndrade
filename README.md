@@ -1,24 +1,44 @@
-# 📊 - Danielle C. de Andrade 
+# Olá, eu sou a Danielle Castro de Andrade! 👋
 
-Sou estudante de **Ciência da Computação** em Cuiabá - MT, focada no desenvolvimento de soluções voltadas para a área de **Dados e Business Intelligence**. Atualmente, dedico meus estudos ao domínio de estruturas de dados, lógica de programação e modelagem relacional.
+## 👩‍💻 Sobre Mim
+Sou estudante de **Ciência da Computação** em Cuiabá - MT, atualmente no 2º semestre. Sou completamente apaixonada pelo universo de **Dados & Business Intelligence (BI)**. Dedico meus estudos diários à modelagem de dados, análise estatística e automação de processos para transformar dados brutos em insights inteligentes.
+
+- 🔭 Atualmente estou aprimorando meus conhecimentos em **Python** e **SQL**.
+- 📊 Desenvolvendo projetos práticos com **Excel Avançado** e **Power BI**.
+- 💼 Buscando oportunidades de **Estágio em Banco de Dados / BI / Engenharia de Dados**.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### 🧠 Linguagens & Bancos de Dados
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=databricks&logoColor=white)
+
+### 📊 Análise & Visualização de Dados
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+
+### 🔧 Ferramentas & Versionamento
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+## 📊 Minhas Estatísticas do GitHub
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+Abaixo você pode ver o resumo das minhas atividades e as linguagens que mais utilizo nos meus repositórios:
 
-* **Linguagens:** Python 3 (Estruturas de Dados e Automação)
-* **Banco de Dados:** SQL (Structured Query Language)
-* **Ambientes & Versionamento:** VS Code, Git e GitHub
-
-### 📁 Objetivos Atuais
-* 💼 Buscando oportunidades de **Estágio em Banco de Dados / BI / Engenharia de Dados**.
-* 📊 Desenvolvendo projetos práticos focado em manipulação e exibição de metadados estruturados.
-* 🎓 Fortalecendo a base teórica e lógica na faculdade aplicadas a cenários reais de mercado.
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=DncAndrade&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Danielle" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DncAndrade&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas" height="180em" />
+</p>
 
 ---
-📫 **Como me encontrar:** [LinkedIn](https://linkedin.com/in/dncandrade) | ✉️ dncastroandrade@gmail.com
+
+## 📫 Como me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINK_DO_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dncastroandrade@gmail.com)
+
