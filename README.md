@@ -29,16 +29,8 @@ Sou estudante de **Ciência da Computação** em Cuiabá - MT, atualmente no 2º
 
 Abaixo você pode ver o resumo das minhas atividades e as linguagens que mais utilizo nos meus repositórios:
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=DncAndrade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Danielle" height="165" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DncAndrade&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" height="165" />
-    </td>
-  </tr>
-</table>
+[![Danielle's GitHub stats](https://github-readme-stats.vercel.app/api?username=DncAndrade&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DncAndrade&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
