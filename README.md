@@ -13,17 +13,17 @@ Sou estudante de **Ciência da Computação** em Cuiabá - MT, atualmente no 2º
 
 ---
 
-##  Tecnologias & Ferramentas
+##  Tecnologias e Ferramentas
 
-###  Linguagens & Bancos de Dados
+###  Linguagens e Bancos de Dados
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=databricks&logoColor=white)
 
-###  Análise & Visualização de Dados
+###  Análise e Visualização de Dados
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
-###  Ferramentas & Versionamento
+###  Ferramentas e Versionamento
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
